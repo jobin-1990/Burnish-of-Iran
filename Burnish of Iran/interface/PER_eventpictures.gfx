@@ -1,0 +1,27 @@
+	#####################
+	### BurnishOfIran ###
+	#####################
+
+spriteTypes = {
+
+	### COUNTRY EVENT ###
+	
+
+	
+	### NEWS EVENT ###
+	
+	spriteType = {
+		name = "GFX_PER_news_event_hitler-esfandeari"
+		texturefile = "gfx/event_pictures/PER_news_event_hitler-esfandeari.dds"
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

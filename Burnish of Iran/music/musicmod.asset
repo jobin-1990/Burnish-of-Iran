@@ -1,0 +1,109 @@
+
+	#######################
+	#### BurnishOfIran ####
+	#######################
+
+
+
+music = {
+	name = "shahansha"
+	file = "anthem_shahansha.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "crowds"
+	file = "controlling_crowds.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "goleh-pamchal_2"
+	file = "ezat-rohbakhsh-ashtiani_goleh-pamchal-2_13xx.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "azarbaijan"
+	file = "hosein-banan_azarbaijan_1320.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "ey-iran"
+	file = "hosein-banan_ey-iran_1323.ogg"
+	volume = 0.50
+}
+
+
+music = {
+	name = "arame-del"
+	file = "javad-badizadeh_arame-del_13xx.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "baz-miresad-nobate-khorrami"
+	file = "javad-badizadeh_baz-miresad-nobate-khorrami.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "keshvare-dariush"
+	file = "javad-badizadeh_keshvare-dariush.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "rana"
+	file = "molok-zarabi_rana_13xx.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "dowlate-alliye"
+	file = "salamatie-dowlate-alliye.ogg"
+	volume = 0.99
+}
+
+music = {
+	name = "salam-e-shah_1906"
+	file = "salam-e-shah_1906_edited.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "salam-e-shah_1910"
+	file = "salam-e-shah_1910_edited.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "iran-javan"
+	file = "salar-aghili_iran-javan.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "saz-dohol-balochi"
+	file = "saz-dohol-balochi.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "saz-dohol-kordi"
+	file = "saz-dohol-kordi.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "sorudeh"
+	file = "sorudeh-Edited.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "national-anthem"
+	file = "us-navy-band_national-anthem.ogg"
+	volume = 0.50
+}
