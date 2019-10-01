@@ -2,7 +2,7 @@ on_actions = {
 	on_startup = {
 		effect = {
 		
-			#iran linses motraize
+			#iran license motraize
 			
 			GER = {
 				create_production_license = {
@@ -10,18 +10,6 @@ on_actions = {
 					cost_factor = 0.0
 					equipment = {
 					type = motorized_equipment_1
-					}	
-				}
-			}	
-			
-			#iran lince sub
-			
-			ENG = {
-				create_production_license = {
-					target = PER
-					cost_factor = 0.0
-					equipment = {
-						type = support_equipment_1
 					}	
 				}
 			}
